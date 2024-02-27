@@ -1,0 +1,59 @@
+
+#judul{
+       font-family: sans-serif;
+       padding: 30px;
+       margin: 10px;
+       font-size: 30px;
+       color:#B6BBC4;
+}
+.img{
+       width: max-content;
+       height: max-content;
+}
+footer{
+       text-align: center;
+}
+nav{
+       background-color: #161A30;
+       padding: 30px;
+}
+#navsub{
+       color: #F0ECE5;
+       font-family: sans-serif;
+       padding: 20px;
+}
+body{
+       background-color: #8a8e95;
+       color: #5575b2;
+}
+.registrasi {
+  padding: 100px;
+  margin: auto;
+  /* width: 100px; */
+  text-align: center;
+}
+#email,
+#password {
+  /* background-color: aquamarine; */
+  margin: 10px;
+  color: #161A30;
+
+}
+/* #submit{
+ padding: 5px;
+ background-color: cornflowerblue;
+ margin: 20px;
+
+} */
+h1 {
+  text-align: center;
+  color: #161A30;
+}
+#fitur{
+       background-color: #31304D;
+       color: #F0ECE5;
+}
+#card1, #card2, #card3{
+      background-color: #5575b2; 
+      color: #cacaca;
+}
